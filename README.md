@@ -37,9 +37,9 @@
 ##
 
 <div> 
-  <a href="https://caio-de-souza.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caio.souza.lima.2001.08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-de-souza-lima-14a892198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://caio-de-souza.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href = "mailto:caio.souza.lima.2001.08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href="https://www.linkedin.com/in/caio-de-souza-lima-14a892198/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
 </div>
   
 ![Snake animation](https://github.com/Caio-de-Souza/Caio-de-Souza/blob/output/github-contribution-grid-snake.svg)
