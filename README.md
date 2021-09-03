@@ -4,6 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-de-Souza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-de-Souza&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div style="display: inline_block;">
+  <img align="right" alt="Programming" src="https://c.tenor.com/eGmUG-T4g1sAAAAM/richard-ayoade-fire.gif">  
+  <div align="left" style="display: inline_block;">
     <div style="display: inline_block;">
       <!-- Frontend -->
       <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -11,7 +14,6 @@
       <img align="center" alt="Jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//jquery/jquery-original.svg">    
       <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">  
       <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="right" alt="Programming" src="https://c.tenor.com/eGmUG-T4g1sAAAAM/richard-ayoade-fire.gif">  
   </div>
     <div style="display: inline_block;" top="5px">
       <!-- Estilo e Layout -->
@@ -41,6 +43,8 @@
       <img align="center" alt="Eclipse IDE" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg">
       <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     </div>
+  </div>
+</div>
   
 ##
 
